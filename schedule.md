@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Workshop Schedule
+
 Program schedule to be announced!
 
 <table>
