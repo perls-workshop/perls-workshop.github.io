@@ -6,19 +6,27 @@ layout: default
 
 Program schedule to be announced!
 
-<table>
+<table class="table table-striped table-hover">
   <thead>
     <tr>
-      <td>A</td>
-      <td>B</td>
-      <td>C</td>
+      <td>Time</td>
+      <td>Speaker</td>
+      <td>Title</td>
+      <td>Link</td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
+      <td>TBA</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TBA</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>

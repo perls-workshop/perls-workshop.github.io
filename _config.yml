@@ -40,3 +40,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Example of template variables:
+# https://github.com/pages-themes/minimal/blob/master/_layouts/default.html
+
+# Our tempalte is based on: https://github.com/baicsworkshop/baicsworkshop.github.io by Jessica Hamrick
+
+# Example workshop sites that are nice:
+# https://offline-rl-neurips.github.io/index.html
+# https://tda-in-ml.github.io/
+# https://kr2ml.github.io/2020/
+# https://inductive-biases.github.io/#abstract
+# https://dynamicdecisions.github.io/
+# https://sslneuips20.github.io/index.html
+# https://www.hadr.ai/home
+# https://capworkshop.github.io/
+#
