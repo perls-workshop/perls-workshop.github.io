@@ -9,7 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # How to participate
 
  * Register for workshop updates below
+ * Check this site closer to NeurIPS for more updates
 
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSOu8dPtBHHG126JJ5ns3TFVj4c_bnZiZflOcmG31h9l55xQ/viewform?embedded=true" width="100%" height="400pt" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-  * Check this site closer to NeurIPS for more updates.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSOu8dPtBHHG126JJ5ns3TFVj4c_bnZiZflOcmG31h9l55xQ/viewform?embedded=true" width="100%" height="400pt" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
