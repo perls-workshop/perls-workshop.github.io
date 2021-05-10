@@ -1,0 +1,28 @@
+
+# A list of confirmed speakers for the workshop
+# The order here determines the order they appear on the page
+
+ - name: Dr. Mark Nitzberg
+   affiliation: Executive Director, CHAI Berkeley
+   website: https://www.linkedin.com/in/nitzberg/
+   image: /assets/speaker-images/nitzburg.jpg
+
+ - name: T.B.A.
+   affiliation:
+   image: /assets/speaker-images/generic.png
+
+ - name: T.B.A.
+   affiliation:
+   image: /assets/speaker-images/generic.png
+
+ - name: T.B.A.
+   affiliation:
+   image: /assets/speaker-images/generic.png
+
+ - name: T.B.A.
+   affiliation:
+   image: /assets/speaker-images/generic.png
+
+ - name: T.B.A.
+   affiliation:
+   image: /assets/speaker-images/generic.png

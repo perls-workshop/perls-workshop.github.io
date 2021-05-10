@@ -1,9 +1,25 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 /* Custom CSS here */
-* {
-    background: pink;
+
+.speaker {
+    margin: 20pt;
+}
+
+.speaker-img {
+    width: 120pt;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-bottom: 10pt;
+
+    padding: 5pt;
+    border: 1pt solid #ccc;
+    box-shadow: 2pt 2pt 10pt #999;
+}
+
+.speaker-affiliation {
+    max-width: 120pt;
+    font-size: smaller;
+    line-height: 15pt;
 }
