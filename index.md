@@ -4,7 +4,15 @@ layout: default
 
 # Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Sponsored by the Center for Human-Compatible AI at UC Berkeley, and with support from the Simons Institute and the Center for Long-Term Cybersecurity, we are convening a cross-disciplinary group of researchers to examine the near-term policy concerns of Reinforcement Learning (RL).
+RL is a rapidly growing branch of AI research, with the capacity to learn to exploit our dynamic behavior in real time.
+From YouTube’s recommendation algorithm to post-surgery opioid prescriptions, RL algorithms are poised to permeate our daily lives.
+The ability of the RL system to tease out behavioral responses, and the human experimentation inherent to its learning, motivate a range of crucial policy questions about RL’s societal implications that are distinct from those addressed in the literature on other branches of Machine Learning (ML).
+
+We began addressing these issues as part of the 2020 Simons Institute program on the Theory of Reinforcement Learning, and throughout 2020/21 we have been broadening the discussion through an ongoing reading group, including perspectives from Law and Policy.
+The aim of this workshop will be to establish a common language around the state of the art of RL across key societal domains.
+From this examination, we hope to identify specific interpretive gaps that can be elaborated or filled by members of our community.
+Our ultimate goal will be to map near-term societal concerns and indicate possible cross-disciplinary avenues towards addressing them.
 
 # How to participate
 

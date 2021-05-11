@@ -1,0 +1,21 @@
+
+# A list of organizers for the workshop
+# The order here determines the order they appear on the page
+
+ - name: Thomas Krendel Gilbert
+   website: https://www.thomaskrendlgilbert.com/
+   image: /assets/organizer-images/gilbert.jpg
+   bio: >
+    ​Thomas is an interdisciplinary Ph.D. candidate in Machine Ethics and Epistemology at UC Berkeley.
+    With prior training in philosophy, sociology, and political theory, Thomas designed his degree program to investigate the ethical and political predicaments that emerge when artificial intelligence reshapes the context of organizational decision-making.
+    Thomas’ recent work investigates how specific algorithmic learning procedures (such as reinforcement learning) reframe classical ethical questions and recall the foundations of democratic political philosophy, namely the significance of popular sovereignty and dissent for resolving normative uncertainty and modeling human preferences.
+    This work has concrete implications for the design of AI systems that are fair for distinct subpopulations, safe when enmeshed with institutional practices, and accountable to public concerns, including medium-term applications like automated vehicles.
+
+ - name: Aaron Snoswell
+   website: https://aaronsnoswell.github.io/
+   image: /assets/organizer-images/snoswell.jpg
+   bio: >
+    Aaron is a research fellow in computational law at the Australian Research Council Centre of Excellence for Autonomous Decision Making and Society.
+    With a background in cross-disciplinary mechatronic engineering, Aaron’s Ph.D. research developed new theory and algorithms for Inverse Reinforcement Learning in the maximum conditional entropy and multiple intent settings.
+    Aaron’s ongoing work investigates technical measures for achieving value alignment for autonomous decision making systems, and legal-theoretic models for AI accountability.
+
