@@ -7,9 +7,10 @@
    website: https://www.linkedin.com/in/nitzberg/
    image: /assets/speaker-images/nitzburg.jpg
 
- - name: T.B.A.
-   affiliation:
-   image: /assets/speaker-images/generic.png
+ - name: Prof. Michael Littman
+   affiliation:  Royce Family Professor of Teaching Excellence in Computer Science, Brown University
+   website: https://www.littmania.com/
+   image: /assets/speaker-images/littman.png
 
  - name: T.B.A.
    affiliation:
