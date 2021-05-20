@@ -8,17 +8,19 @@
    image: /assets/speaker-images/nitzburg.jpg
 
  - name: Prof. Michael Littman
-   affiliation:  Royce Family Professor of Teaching Excellence in Computer Science, Brown University
+   affiliation: Royce Family Professor of Teaching Excellence in Computer Science, Brown University
    website: https://www.littmania.com/
    image: /assets/speaker-images/littman.png
 
- - name: T.B.A.
-   affiliation:
-   image: /assets/speaker-images/generic.png
+ - name: Dr. Jake Goldenfein
+   affiliation: Senior Lecturer, Melbourne Law School
+   website: https://law.unimelb.edu.au/about/staff/jake-goldenfein
+   image: /assets/speaker-images/goldenfein.jpg
 
- - name: T.B.A.
-   affiliation:
-   image: /assets/speaker-images/generic.png
+ - name: Mason Kortz
+   affiliation: Clinical instructor, Harvard Law School Cyberlaw Clinic
+   website: https://cyber.harvard.edu/people/mkortz
+   image: /assets/speaker-images/kortz.jpg
 
  - name: T.B.A.
    affiliation:

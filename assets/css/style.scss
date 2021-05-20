@@ -7,9 +7,9 @@
     margin: 20pt;
 }
 
-.speaker-img {
-    width: 120pt;
-    height: 120pt;
+@mixin talking-head($size: 120pt) {
+    width: $size;
+    height: $size;
     overflow: hidden;
     border-radius: 50%;
     margin-bottom: 10pt;
@@ -17,6 +17,10 @@
     padding: 5pt;
     border: 1pt solid #ccc;
     box-shadow: 2pt 2pt 10pt #999;
+}
+
+.speaker-img {
+    @include talking-head();
 }
 
 .speaker-affiliation {
@@ -30,14 +34,7 @@
 }
 
 .organizer-img {
-    width: 200pt;
-    overflow: hidden;
-    border-radius: 50%;
-    margin-bottom: 10pt;
-
-    padding: 5pt;
-    border: 1pt solid #ccc;
-    box-shadow: 2pt 2pt 10pt #999;
+    @include talking-head(200pt);
 }
 
 .organizer-bio {

@@ -9,7 +9,7 @@ RL is a rapidly growing branch of AI research, with the capacity to learn to exp
 From YouTube’s recommendation algorithm to post-surgery opioid prescriptions, RL algorithms are poised to permeate our daily lives.
 The ability of the RL system to tease out behavioral responses, and the human experimentation inherent to its learning, motivate a range of crucial policy questions about RL’s societal implications that are distinct from those addressed in the literature on other branches of Machine Learning (ML).
 
-We began addressing these issues as part of the 2020 Simons Institute program on the Theory of Reinforcement Learning, and throughout 2020/21 we have been broadening the discussion through an ongoing reading group, including perspectives from Law and Policy.
+We began addressing these issues as part of the [2020 Simons Institute program on the Theory of Reinforcement Learning](https://simons.berkeley.edu/news/mapping-political-economy-reinforcement-learning-systems-case-autonomous-vehicles), and throughout 2020/21 we have been broadening the discussion through an [ongoing reading group](https://geesegraduates.org/2020/10/26/political-economy-of-reinforcement-learning/), including perspectives from Law and Policy.
 The aim of this workshop will be to establish a common language around the state of the art of RL across key societal domains.
 From this examination, we hope to identify specific interpretive gaps that can be elaborated or filled by members of our community.
 Our ultimate goal will be to map near-term societal concerns and indicate possible cross-disciplinary avenues towards addressing them.

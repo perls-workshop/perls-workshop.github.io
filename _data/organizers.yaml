@@ -2,6 +2,17 @@
 # A list of organizers for the workshop
 # The order here determines the order they appear on the page
 
+ - name: Stuart Russell
+   website: https://people.eecs.berkeley.edu/~russell/
+   image: /assets/organizer-images/russell.jpg
+   bio: >
+     Stuart Russell is a Professor of Computer Science at the University of California at Berkeley, holder of the Smith-Zadeh Chair in Engineering, and Director of the Center for Human-Compatible AI.
+     He is a recipient of the IJCAI Computers and Thought Award and from 2012 to 2014 held the Chaire Blaise Pascal in Paris.
+     He is an Honorary Fellow of Wadham College, Oxford, an Andrew Carnegie Fellow, and a Fellow of the American Association for Artificial Intelligence, the Association for Computing Machinery, and the American Association for the Advancement of Science.
+     His book "Artificial Intelligence: A Modern Approach" (with Peter Norvig) is the standard text in AI, used in 1500 universities in 135 countries.
+     His research covers a wide range of topics in artificial intelligence, with an emphasis on the long-term future of artificial intelligence and its relation to humanity.
+     He has developed a new global seismic monitoring system for the nuclear-test-ban treaty and is currently working to ban lethal autonomous weapons.
+
  - name: Thomas Krendl Gilbert
    website: https://www.thomaskrendlgilbert.com/
    image: /assets/organizer-images/gilbert.jpg
@@ -19,3 +30,23 @@
     With a background in cross-disciplinary mechatronic engineering, Aaron’s Ph.D. research developed new theory and algorithms for Inverse Reinforcement Learning in the maximum conditional entropy and multiple intent settings.
     Aaron’s ongoing work investigates technical measures for achieving value alignment for autonomous decision making systems, and legal-theoretic models for AI accountability.
 
+ - name: Tom Zick
+   website: https://cyber.harvard.edu/people/tom-zick
+   image: /assets/organizer-images/zick.jpg
+   bio: >
+    Tom Zick has her PhD from UC Berkeley and researches the intersection of open data governance, AI ethics, and cybersecurity.
+    Trained in machine learning, Tom is especially interested in how to craft safe and equitable policy surrounding the adoption of AI in high-stakes domains.
+    Within academia, she has worked as a data scientist at the Berkeley Center for Law and Technology, evaluating the capacity of regulations to promote open government data.
+    She has also worked with graduate students across social science and engineering to advocate for pedagogy reform focused on infusing social context into technical coursework.
+    Tom has also worked on digital transparency in the public realm for the city of Boston as a Mayor’s Office for New Urban Mechanics fellow.
+    Her current research focuses on the near term policy concerns surrounding reinforcement learning. 
+
+#  - name: Michael Dennis
+#    image: /assets/organizer-images/dennis.jpg
+#    bio: >
+#     Tom Zick has her PhD from UC Berkeley and researches the intersection of open data governance, AI ethics, and cybersecurity.
+#     Trained in machine learning, Tom is especially interested in how to craft safe and equitable policy surrounding the adoption of AI in high-stakes domains.
+#     Within academia, she has worked as a data scientist at the Berkeley Center for Law and Technology, evaluating the capacity of regulations to promote open government data.
+#     She has also worked with graduate students across social science and engineering to advocate for pedagogy reform focused on infusing social context into technical coursework.
+#     Tom has also worked on digital transparency in the public realm for the city of Boston as a Mayor’s Office for New Urban Mechanics fellow.
+#     Her current research focuses on the near term policy concerns surrounding reinforcement learning. 
