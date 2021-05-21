@@ -41,12 +41,12 @@
     Tom has also worked on digital transparency in the public realm for the city of Boston as a Mayor’s Office for New Urban Mechanics fellow.
     Her current research focuses on the near term policy concerns surrounding reinforcement learning. 
 
-#  - name: Michael Dennis
-#    image: /assets/organizer-images/dennis.jpg
-#    bio: >
-#     Tom Zick has her PhD from UC Berkeley and researches the intersection of open data governance, AI ethics, and cybersecurity.
-#     Trained in machine learning, Tom is especially interested in how to craft safe and equitable policy surrounding the adoption of AI in high-stakes domains.
-#     Within academia, she has worked as a data scientist at the Berkeley Center for Law and Technology, evaluating the capacity of regulations to promote open government data.
-#     She has also worked with graduate students across social science and engineering to advocate for pedagogy reform focused on infusing social context into technical coursework.
-#     Tom has also worked on digital transparency in the public realm for the city of Boston as a Mayor’s Office for New Urban Mechanics fellow.
-#     Her current research focuses on the near term policy concerns surrounding reinforcement learning. 
+ - name: Michael Dennis
+   website: https://scholar.google.com/citations?user=WXXu26AAAAAJ&hl=en&oi=sra
+   image: /assets/organizer-images/dennis.jpg
+   bio: >
+    Michael Dennis is a 5th year grad student at the Center for Human-Compatible AI.
+    With a background in theoretical computer science, he is working to close the gap between decision theoretic and game theoretic recommendations and the current state of the art approaches to robust RL and multi-agent RL.
+    The overall aim of this work is to ensure that our systems behave in a way that is robustly beneficial.
+    In the single agent setting, this means making decisions and managing risk in the way the designer intends.
+    In the multi-agent setting, this means ensuring that the concerns of the designer and those of others in the society are fairly and justly negotiated to the benefit of all involved.  

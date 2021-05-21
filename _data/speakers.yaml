@@ -2,20 +2,30 @@
 # A list of confirmed speakers for the workshop
 # The order here determines the order they appear on the page
 
- - name: Dr. Mark Nitzberg
+ - name: Mark Nitzberg
    affiliation: Executive Director, CHAI Berkeley
    website: https://www.linkedin.com/in/nitzberg/
    image: /assets/speaker-images/nitzburg.jpg
 
- - name: Prof. Michael Littman
+ - name: Michael Littman
    affiliation: Royce Family Professor of Teaching Excellence in Computer Science, Brown University
    website: https://www.littmania.com/
    image: /assets/speaker-images/littman.png
 
- - name: Dr. Jake Goldenfein
+ - name: Salomé Viljoen
+   affiliation: Academic Fellow and Lecturer in Law, Columbia Law School
+   website: https://www.salomeviljoen.com/
+   image: /assets/speaker-images/viljoen.jpg
+
+ - name: Jake Goldenfein
    affiliation: Senior Lecturer, Melbourne Law School
    website: https://law.unimelb.edu.au/about/staff/jake-goldenfein
    image: /assets/speaker-images/goldenfein.jpg
+
+ - name: Jonathan Zittrain
+   affiliation: Faculty Director, Berkman Klein Center for Internet and Society
+   website: https://hls.harvard.edu/faculty/directory/10992/Zittrain
+   image: /assets/speaker-images/zittrain.jpg
 
  - name: Mason Kortz
    affiliation: Clinical instructor, Harvard Law School Cyberlaw Clinic
