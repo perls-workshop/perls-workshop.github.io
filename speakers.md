@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Confirmed Speakers
+# Confirmed Speakers and Panellists
 
 <div class="row justify-content-center">
     {% for speaker in site.data.speakers %}

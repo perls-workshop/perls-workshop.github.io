@@ -22,6 +22,11 @@
    website: https://law.unimelb.edu.au/about/staff/jake-goldenfein
    image: /assets/speaker-images/goldenfein.jpg
 
+ - name: Ivana Dusparik
+   affiliation: Ussher Assistant Professor in Future Cities and the Internet of Things, Trinity College Dublin
+   website: https://www.scss.tcd.ie/Ivana.Dusparic/
+   image: /assets/speaker-images/dusparik.jpg
+
  - name: Jonathan Zittrain
    affiliation: Faculty Director, Berkman Klein Center for Internet and Society
    website: https://hls.harvard.edu/faculty/directory/10992/Zittrain
@@ -37,9 +42,15 @@
    website: https://cyber.harvard.edu/people/mkortz
    image: /assets/speaker-images/kortz.jpg
 
- - name: T.B.A.
-   affiliation:
-   image: /assets/speaker-images/generic.png
+ - name: Natasha Jaques
+   affiliation: Research Scientist at Google Brain, Post-doc at UC Berkeley
+   website: https://research.google/people/NatashaJaques/
+   image: /assets/speaker-images/jaques.jpg
+
+ - name: Jakob N. Foerster
+   affiliation: CIFAR AI Chair and Research Scientist, Facebook AI Research
+   website: https://www.jakobfoerster.com/
+   image: /assets/speaker-images/foerster.jpg
 
  - name: T.B.A.
    affiliation:
