@@ -7,6 +7,11 @@
    website: https://www.linkedin.com/in/nitzberg/
    image: /assets/speaker-images/nitzburg.jpg
 
+ - name: Natasha Jaques
+   affiliation: Research Scientist at Google Brain, Post-doc at UC Berkeley
+   website: https://research.google/people/NatashaJaques/
+   image: /assets/speaker-images/jaques.jpg
+
  - name: Michael Littman
    affiliation: Royce Family Professor of Teaching Excellence in Computer Science, Brown University
    website: https://www.littmania.com/
@@ -42,10 +47,10 @@
    website: https://cyber.harvard.edu/people/mkortz
    image: /assets/speaker-images/kortz.jpg
 
- - name: Natasha Jaques
-   affiliation: Research Scientist at Google Brain, Post-doc at UC Berkeley
-   website: https://research.google/people/NatashaJaques/
-   image: /assets/speaker-images/jaques.jpg
+ - name: Evi Micha
+   affiliation: Postgraduate Affiliate, Vector Institute for Artificial Intelligence
+   website: http://www.cs.toronto.edu/~emicha/
+   image: /assets/speaker-images/micha.jpg
 
  - name: Jakob N. Foerster
    affiliation: CIFAR AI Chair and Research Scientist, Facebook AI Research

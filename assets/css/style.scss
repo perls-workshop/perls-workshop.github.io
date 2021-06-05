@@ -21,6 +21,7 @@
 
 .speaker-img {
     @include talking-head();
+    /*filter: grayscale(0%);*/
 }
 
 .speaker-affiliation {
