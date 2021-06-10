@@ -15,7 +15,7 @@
  - name: Michael Littman
    affiliation: Royce Family Professor of Teaching Excellence in Computer Science, Brown University
    website: https://www.littmania.com/
-   image: /assets/speaker-images/littman.png
+   image: /assets/speaker-images/littman.jpg
 
  - name: Salomé Viljoen
    affiliation: Academic Fellow and Lecturer in Law, Columbia Law School
@@ -39,7 +39,7 @@
 
  - name: Katie Steele
    affiliation: Associate Professor, Australian National University Humanising Machine Intelligence Institute
-   website: https://researchers.anu.edu.au/researchers/steele-ks?term=katie+steele
+   website: https://researchers.anu.edu.au/researchers/steele-ks
    image: /assets/speaker-images/steele.jpg
 
  - name: Mason Kortz
@@ -57,9 +57,15 @@
    website: https://www.jakobfoerster.com/
    image: /assets/speaker-images/foerster.jpg
 
- - name: T.B.A.
-   affiliation:
-   image: /assets/speaker-images/generic.png
+ - name: Duygu Yengin
+   affiliation: Associate Professor in Economics, University of Adelaide
+   website: https://researchers.adelaide.edu.au/profile/duygu.yengin
+   image: /assets/speaker-images/yengin.jpg
+
+ - name: Amy R Greenwald
+   affiliation: Professor of Computer Science, Brown University
+   website: http://cs.brown.edu/people/faculty/amy/
+   image: /assets/speaker-images/greenwald.jpg
 
  - name: T.B.A.
    affiliation:

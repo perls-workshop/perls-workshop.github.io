@@ -5,6 +5,8 @@
 
 .speaker {
     margin: 20pt;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
 }
 
 @mixin talking-head($size: 120pt) {
