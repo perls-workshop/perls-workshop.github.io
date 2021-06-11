@@ -67,9 +67,10 @@
    website: http://cs.brown.edu/people/faculty/amy/
    image: /assets/speaker-images/greenwald.jpg
 
- - name: T.B.A.
-   affiliation:
-   image: /assets/speaker-images/generic.png
+ - name: Ayse Gizem Yasar
+   affiliation: PhD Candidate, Sciences Po Law School
+   website: https://www.sciencespo.fr/ecole-de-droit/en/profile/gizem-yasar-ayse.html
+   image: /assets/speaker-images/yasar.jpg
 
  - name: T.B.A.
    affiliation:
