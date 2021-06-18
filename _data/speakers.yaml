@@ -17,6 +17,11 @@
    website: https://www.littmania.com/
    image: /assets/speaker-images/littman.jpg
 
+ - name: Mireille Hildebrandt
+   affiliation: Tenured Research Professor on Interfacing Law and Technology
+   website: https://lsts.research.vub.be/en/mireille-hildebrandt/
+   image: /assets/speaker-images/hilderbrandt.jpg
+
  - name: Salomé Viljoen
    affiliation: Academic Fellow and Lecturer in Law, Columbia Law School
    website: https://www.salomeviljoen.com/
@@ -71,7 +76,3 @@
    affiliation: PhD Candidate, Sciences Po Law School
    website: https://www.sciencespo.fr/ecole-de-droit/en/profile/gizem-yasar-ayse.html
    image: /assets/speaker-images/yasar.jpg
-
- - name: T.B.A.
-   affiliation:
-   image: /assets/speaker-images/generic.png
