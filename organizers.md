@@ -24,3 +24,6 @@ layout: default
     {% endfor %}
 </div>
 
+# Workshop Programme Comittee
+
+To be announced soon!
