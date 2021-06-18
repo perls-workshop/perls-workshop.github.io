@@ -22,14 +22,6 @@
     Thomas’ recent work investigates how specific algorithmic learning procedures (such as reinforcement learning) reframe classical ethical questions and recall the foundations of democratic political philosophy, namely the significance of popular sovereignty and dissent for resolving normative uncertainty and modeling human preferences.
     This work has concrete implications for the design of AI systems that are fair for distinct subpopulations, safe when enmeshed with institutional practices, and accountable to public concerns, including medium-term applications like automated vehicles.
 
- - name: Aaron Snoswell
-   website: https://aaronsnoswell.github.io/
-   image: /assets/organizer-images/snoswell.jpg
-   bio: >
-    Aaron is a research fellow in computational law at the Australian Research Council Centre of Excellence for Autonomous Decision Making and Society.
-    With a background in cross-disciplinary mechatronic engineering, Aaron’s Ph.D. research developed new theory and algorithms for Inverse Reinforcement Learning in the maximum conditional entropy and multiple intent settings.
-    Aaron’s ongoing work investigates technical measures for achieving value alignment for autonomous decision making systems, and legal-theoretic models for AI accountability.
-
  - name: Tom Zick
    website: https://cyber.harvard.edu/people/tom-zick
    image: /assets/organizer-images/zick.jpg
@@ -40,6 +32,14 @@
     She has also collaborated with graduate students across social science and engineering to advocate for pedagogy reform focused on infusing social context into technical coursework.
     Outside of academia, Tom has crafted digital policy for the City of Boston as a fellow for the Mayor’s Office for New Urban Mechanics.
     Her current research centers on the near term policy concerns surrounding reinforcement learning.
+
+ - name: Aaron Snoswell
+   website: https://aaronsnoswell.github.io/
+   image: /assets/organizer-images/snoswell.jpg
+   bio: >
+    Aaron is a research fellow in computational law at the Australian Research Council Centre of Excellence for Autonomous Decision Making and Society.
+    With a background in cross-disciplinary mechatronic engineering, Aaron’s Ph.D. research developed new theory and algorithms for Inverse Reinforcement Learning in the maximum conditional entropy and multiple intent settings.
+    Aaron’s ongoing work investigates technical measures for achieving value alignment for autonomous decision making systems, and legal-theoretic models for AI accountability.
 
  - name: Michael Dennis
    website: https://scholar.google.com/citations?user=WXXu26AAAAAJ&hl=en&oi=sra
