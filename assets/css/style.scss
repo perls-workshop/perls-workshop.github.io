@@ -43,3 +43,48 @@
 .organizer-bio {
     padding-left: 20pt;
 }
+
+.theme-1>td {
+    background: rgb(120, 152, 233);
+}
+
+.theme-2>td {
+    background: rgb(226, 127, 175);
+}
+
+.theme-3>td {
+    background: rgb(255, 128, 49);
+}
+
+.theme-4>td {
+    background: rgb(255, 186, 36);
+}
+
+.table-secondary, .table-secondary>td, .table-secondary>th {
+    background: rgba(0,0,0,0.05)
+}
+
+table.schedule > caption {
+    opacity: 0;
+}
+
+table.schedule th {
+    border-right: 1px solid rgba(0,0,0,0.2);
+}
+
+table.schedule td.theme-header {
+    border-right: 1px solid rgba(0,0,0,0.2);
+}
+
+table.schedule td.theme-header {
+    writing-mode: vertical-rl;
+    transform: scale(-1);
+    text-align: center;
+    vertical-align: middle;
+    padding: 15pt;
+
+    > p {
+        margin: 0;
+    }
+}
+
