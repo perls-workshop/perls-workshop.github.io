@@ -44,8 +44,13 @@
 
  - name: Katie Steele
    affiliation: Associate Professor, Australian National University Humanising Machine Intelligence Institute
-   website: https://researchers.anu.edu.au/researchers/steele-ks
+   website: https://rachel.fast.ai/
    image: /assets/speaker-images/steele.jpg
+
+ - name: Rachel Thomas
+   affiliation: Founder of Centre for Applied Data Ethics at University of San Francisco, co-founder of fast.ai
+   website: https://researchers.anu.edu.au/researchers/steele-ks
+   image: /assets/speaker-images/thomas.jpg
 
  - name: Mason Kortz
    affiliation: Clinical instructor, Harvard Law School Cyberlaw Clinic
