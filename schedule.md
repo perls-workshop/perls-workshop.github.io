@@ -23,7 +23,7 @@ All details subject to change at this point.
     </tr>
     <tr>
       <th scope="row">8:05am</th>
-      <td colspan="2">Keynote 1</td>
+      <td colspan="2">Keynote 1: <a href="{{ site.data.keynotespeakers[0].website }}" target="_blank">{{ site.data.keynotespeakers[0].name }}</a></td>
     </tr>
     <!-- -->
     <tr class="table-secondary">
@@ -35,7 +35,7 @@ All details subject to change at this point.
       <th scope="row">9:00am</th>
       <td rowspan="3" class="col-1 theme-header">
         <p>Theme 1:</p>
-        <p>(To Be Announced)</p>
+        <p>Vagueness & Specification</p>
       </td>
       <td >Lightning talks 1</td>
     </tr>
@@ -57,7 +57,7 @@ All details subject to change at this point.
       <th scope="row">1:00pm</th>
       <td rowspan="3" class="col-1 theme-header">
         <p>Theme 2:</p>
-        <p>(To Be Announced)</p>
+        <p>Trust & Power</p>
       </td>
       <td >Lightning talks 2</td>
     </tr>
@@ -76,7 +76,7 @@ All details subject to change at this point.
     </tr>
     <tr>
       <th scope="row">4:05pm</th>
-      <td colspan="2">Keynote 2</td>
+      <td colspan="2">Keynote 2: <a href="{{ site.data.keynotespeakers[1].website }}" target="_blank">{{ site.data.keynotespeakers[1].name }}</a></td>
     </tr>
     <tr>
       <th scope="row">4:55pm</th>
@@ -102,7 +102,7 @@ All details subject to change at this point.
     </tr>
     <tr>
       <th scope="row">8:05am</th>
-      <td colspan="2">Keynote 3</td>
+      <td colspan="2">Keynote 3: <a href="{{ site.data.keynotespeakers[2].website }}" target="_blank">{{ site.data.keynotespeakers[2].name }}</a></td>
     </tr>
     <!-- -->
     <tr class="table-secondary">
@@ -114,7 +114,7 @@ All details subject to change at this point.
       <th scope="row">9:00am</th>
       <td rowspan="3" class="col-1 theme-header">
         <p>Theme 3:</p>
-        <p>(To Be Announced)</p>
+        <p>Multi-Agency</p>
       </td>
       <td >Lightning talks 3</td>
     </tr>
@@ -136,7 +136,7 @@ All details subject to change at this point.
       <th scope="row">1:00pm</th>
       <td rowspan="3" class="col-1 theme-header">
         <p>Theme 4:</p>
-        <p>(To Be Announced)</p>
+        <p>Systems & Monopolization</p>
       </td>
       <td >Lightning talks 4</td>
     </tr>
@@ -155,7 +155,7 @@ All details subject to change at this point.
     </tr>
     <tr>
       <th scope="row">4:05pm</th>
-      <td colspan="2">Keynote 4</td>
+      <td colspan="2">Keynote 4: <a href="{{ site.data.keynotespeakers[3].website }}" target="_blank">{{ site.data.keynotespeakers[3].name }}</a></td>
     </tr>
     <tr>
       <th scope="row">4:55pm</th>
