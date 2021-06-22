@@ -5,56 +5,62 @@ layout: default
 # Confirmed Keynote Speakers
 
 <div class="row justify-content-center">
-    {% for speaker in site.data.keynotespeakers %}
-    <div class="text-center speaker">
-        <img src="{{ speaker.image }}" class="speaker-img" />
+    {% for speaker in site.data.speakers %}
+        {% if speaker.keynote %}
+        <div class="text-center speaker">
+            <img src="{{ speaker.image }}" class="speaker-img" />
 
-        <div class="break"></div>
+            <div class="break"></div>
 
-        {% if speaker.website %}
-        <a href="{{ speaker.website }}" target="_blank" >
-            {{ speaker.name }}
-        </a>
-        {% else %}
-            {{ speaker.name }}
-        {% endif %}
+            {% if speaker.website %}
+            <a href="{{ speaker.website }}" target="_blank" >
+                {{ speaker.name }}
+            </a>
+            {% else %}
+                {{ speaker.name }}
+            {% endif %}
 
-        <div class="break"></div>
+            <div class="break"></div>
 
-        <div class="speaker-affiliation">
-        {% if speaker.affiliation %}
-            {{ speaker.affiliation }}
-        {% endif %}
+            <div class="speaker-affiliation">
+            {% if speaker.affiliation %}
+                {{ speaker.affiliation }}
+            {% endif %}
+            </div>
         </div>
-    </div>
+        {% endif %}
     {% endfor %}
 </div>
 
 # Confirmed Panelists
 
 <div class="row justify-content-center">
-    {% for panelist in site.data.panelists %}
-    <div class="text-center speaker">
-        <img src="{{ panelist.image }}" class="speaker-img" />
+    {% for panelist in site.data.speakers %}
+        {% if panelist.panel %}
+        {% unless panelist.keynote %}
+        <div class="text-center speaker">
+            <img src="{{ panelist.image }}" class="speaker-img" />
 
-        <div class="break"></div>
+            <div class="break"></div>
 
-        {% if panelist.website %}
-        <a href="{{ panelist.website }}" target="_blank" >
-            {{ panelist.name }}
-        </a>
-        {% else %}
-            {{ panelist.name }}
-        {% endif %}
+            {% if panelist.website %}
+            <a href="{{ panelist.website }}" target="_blank" >
+                {{ panelist.name }}
+            </a>
+            {% else %}
+                {{ panelist.name }}
+            {% endif %}
 
-        <div class="break"></div>
+            <div class="break"></div>
 
-        <div class="speaker-affiliation">
-        {% if panelist.affiliation %}
-            {{ panelist.affiliation }}
-        {% endif %}
+            <div class="speaker-affiliation">
+            {% if panelist.affiliation %}
+                {{ panelist.affiliation }}
+            {% endif %}
+            </div>
         </div>
-    </div>
+        {% endunless %}
+        {% endif %}
     {% endfor %}
 </div>
 

@@ -23,7 +23,18 @@ All details subject to change at this point.
     </tr>
     <tr>
       <th scope="row">8:05am</th>
-      <td colspan="2">Keynote 1: <a href="{{ site.data.keynotespeakers[0].website }}" target="_blank">{{ site.data.keynotespeakers[0].name }}</a></td>
+      <td colspan="2">
+        Keynote 1:
+        {% for speaker in site.data.speakers | sort: "keynote" limit:1 offset:0 %}
+          {% if speaker.website %}
+            <a href="{{ speaker.website }}" target="_blank" >
+            {{ speaker.name }}
+            </a>
+          {% else %}
+            {{ speaker.name }}
+          {% endif %}
+        {% endfor %}
+      </td>
     </tr>
     <!-- -->
     <tr class="table-secondary">
@@ -33,19 +44,35 @@ All details subject to change at this point.
     <!-- -->
     <tr class="theme-1">
       <th scope="row">9:00am</th>
-      <td rowspan="3" class="col-1 theme-header">
+      <td rowspan="2" class="col-1 theme-header">
         <p>Theme 1:</p>
         <p>Vagueness & Specification</p>
       </td>
-      <td >Lightning talks 1</td>
-    </tr>
-    <tr class="theme-1">
-      <th scope="row">10:00am</th>
-      <td>Panel discussion 1</td>
+      <td>
+        Lightning talks & Panel discussion 1
+        <ul>
+        {% for speaker in site.data.speakers | sort: "panel" %}
+          {% if speaker.panel == 'vs' %}
+            <li>
+              {% if speaker.website %}
+                <a href="{{ speaker.website }}" target="_blank" >{{ speaker.name }}</a>
+              {% else %}
+                {{ speaker.name }}
+              {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </td>
     </tr>
     <tr class="theme-1">
       <th scope="row">11:00am</th>
-      <td>Poster session 1</td>
+      <td>
+        Poster session 1
+        <ul>
+          <li>Accepted Papers TBA</li>
+        </ul>
+      </td>
     </tr>
     <!-- -->
     <tr class="table-secondary">
@@ -55,19 +82,35 @@ All details subject to change at this point.
     <!-- -->
     <tr class="theme-2">
       <th scope="row">1:00pm</th>
-      <td rowspan="3" class="col-1 theme-header">
+      <td rowspan="2" class="col-1 theme-header">
         <p>Theme 2:</p>
         <p>Trust & Power</p>
       </td>
-      <td >Lightning talks 2</td>
-    </tr>
-    <tr class="theme-2">
-      <th scope="row">2:00pm</th>
-      <td>Panel discussion 2</td>
+      <td>
+        Lightning talks & Panel discussion 2
+        <ul>
+        {% for speaker in site.data.speakers | sort: "panel" %}
+          {% if speaker.panel == 'tp' %}
+            <li>
+              {% if speaker.website %}
+                <a href="{{ speaker.website }}" target="_blank" >{{ speaker.name }}</a>
+              {% else %}
+                {{ speaker.name }}
+              {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </td>
     </tr>
     <tr class="theme-2">
       <th scope="row">3:00pm</th>
-      <td>Poster session 2</td>
+      <td>
+        Poster session 2
+        <ul>
+          <li>Accepted Papers TBA</li>
+        </ul>
+      </td>
     </tr>
     <!-- -->
     <tr class="table-secondary">
@@ -76,7 +119,18 @@ All details subject to change at this point.
     </tr>
     <tr>
       <th scope="row">4:05pm</th>
-      <td colspan="2">Keynote 2: <a href="{{ site.data.keynotespeakers[1].website }}" target="_blank">{{ site.data.keynotespeakers[1].name }}</a></td>
+      <td colspan="2">
+        Keynote 2:
+        {% for speaker in site.data.speakers | sort: "keynote" limit:1 offset:1 %}
+          {% if speaker.website %}
+            <a href="{{ speaker.website }}" target="_blank" >
+            {{ speaker.name }}
+            </a>
+          {% else %}
+            {{ speaker.name }}
+          {% endif %}
+        {% endfor %}
+      </td>
     </tr>
     <tr>
       <th scope="row">4:55pm</th>
@@ -102,7 +156,18 @@ All details subject to change at this point.
     </tr>
     <tr>
       <th scope="row">8:05am</th>
-      <td colspan="2">Keynote 3: <a href="{{ site.data.keynotespeakers[2].website }}" target="_blank">{{ site.data.keynotespeakers[2].name }}</a></td>
+      <td colspan="2">
+        Keynote 3:
+        {% for speaker in site.data.speakers | sort: "keynote" limit:1 offset:2 %}
+          {% if speaker.website %}
+            <a href="{{ speaker.website }}" target="_blank" >
+            {{ speaker.name }}
+            </a>
+          {% else %}
+            {{ speaker.name }}
+          {% endif %}
+        {% endfor %}
+      </td>
     </tr>
     <!-- -->
     <tr class="table-secondary">
@@ -112,19 +177,35 @@ All details subject to change at this point.
     <!-- -->
     <tr class="theme-3">
       <th scope="row">9:00am</th>
-      <td rowspan="3" class="col-1 theme-header">
+      <td rowspan="2" class="col-1 theme-header">
         <p>Theme 3:</p>
         <p>Multi-Agency</p>
       </td>
-      <td >Lightning talks 3</td>
-    </tr>
-    <tr class="theme-3">
-      <th scope="row">10:00am</th>
-      <td>Panel discussion 3</td>
+      <td>
+        Lightning talks & Panel discussion 3
+        <ul>
+        {% for speaker in site.data.speakers | sort: "panel" %}
+          {% if speaker.panel == 'ma' %}
+            <li>
+              {% if speaker.website %}
+                <a href="{{ speaker.website }}" target="_blank" >{{ speaker.name }}</a>
+              {% else %}
+                {{ speaker.name }}
+              {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </td>
     </tr>
     <tr class="theme-3">
       <th scope="row">11:00am</th>
-      <td>Poster session 3</td>
+      <td>
+        Poster session 3
+        <ul>
+          <li>Accepted Papers TBA</li>
+        </ul>
+      </td>
     </tr>
     <!-- -->
     <tr class="table-secondary">
@@ -134,19 +215,35 @@ All details subject to change at this point.
     <!-- -->
     <tr class="theme-4">
       <th scope="row">1:00pm</th>
-      <td rowspan="3" class="col-1 theme-header">
+      <td rowspan="2" class="col-1 theme-header">
         <p>Theme 4:</p>
         <p>Systems & Monopolization</p>
       </td>
-      <td >Lightning talks 4</td>
-    </tr>
-    <tr class="theme-4">
-      <th scope="row">2:00pm</th>
-      <td>Panel discussion 4</td>
+      <td>
+        Lightning talks & Panel discussion 4
+        <ul>
+        {% for speaker in site.data.speakers | sort: "panel" %}
+          {% if speaker.panel == 'sm' %}
+            <li>
+              {% if speaker.website %}
+                <a href="{{ speaker.website }}" target="_blank" >{{ speaker.name }}</a>
+              {% else %}
+                {{ speaker.name }}
+              {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </td>
     </tr>
     <tr class="theme-4">
       <th scope="row">3:00pm</th>
-      <td>Poster session 4</td>
+      <td>
+        Poster session 4
+        <ul>
+          <li>Accepted Papers TBA</li>
+        </ul>
+      </td>
     </tr>
     <!-- -->
     <tr class="table-secondary">
@@ -155,7 +252,18 @@ All details subject to change at this point.
     </tr>
     <tr>
       <th scope="row">4:05pm</th>
-      <td colspan="2">Keynote 4: <a href="{{ site.data.keynotespeakers[3].website }}" target="_blank">{{ site.data.keynotespeakers[3].name }}</a></td>
+      <td colspan="2">
+        Keynote 4:
+        {% for speaker in site.data.speakers | sort: "keynote" limit:1 offset:3 %}
+          {% if speaker.website %}
+            <a href="{{ speaker.website }}" target="_blank" >
+            {{ speaker.name }}
+            </a>
+          {% else %}
+            {{ speaker.name }}
+          {% endif %}
+        {% endfor %}
+      </td>
     </tr>
     <tr>
       <th scope="row">4:55pm</th>
