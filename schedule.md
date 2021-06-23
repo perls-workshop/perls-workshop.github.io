@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<!-- Locate keynote speakers and panelists -->
+{% assign num_keynotes = 0 %}
+{% for speaker in site.data.speakers %}
+  {% if speaker.keynote %}
+    {% if num_keynotes == 0 %}{% assign keynote1 = speaker %}
+    {% elsif num_keynotes == 1 %}{% assign keynote2 = speaker %}
+    {% elsif num_keynotes == 2 %}{% assign keynote3 = speaker %}
+    {% elsif num_keynotes == 3 %}{% assign keynote4 = speaker %}
+    {% endif %}
+    {% assign num_keynotes = num_keynotes | plus: 1 %}
+  {% endif %}
+{% endfor %}
+{% assign panelists = site.data.speakers | sort: "panel" %}
+
 # Workshop Draft Schedule
 
 All details subject to change at this point.
@@ -25,15 +39,13 @@ All details subject to change at this point.
       <th scope="row">8:05am</th>
       <td colspan="2">
         Keynote 1:
-        {% for speaker in site.data.speakers | sort: "keynote" limit:1 offset:0 %}
-          {% if speaker.website %}
-            <a href="{{ speaker.website }}" target="_blank" >
-            {{ speaker.name }}
-            </a>
-          {% else %}
-            {{ speaker.name }}
-          {% endif %}
-        {% endfor %}
+        {% if keynote1.website %}
+          <a href="{{ keynote1.website }}" target="_blank" >
+          {{ keynote1.name }}
+          </a>
+        {% else %}
+          {{ keynote1.name }}
+        {% endif %}
       </td>
     </tr>
     <!-- -->
@@ -51,7 +63,7 @@ All details subject to change at this point.
       <td>
         Lightning talks & Panel discussion 1
         <ul>
-        {% for speaker in site.data.speakers | sort: "panel" %}
+        {% for speaker in panelists %}
           {% if speaker.panel == 'vs' %}
             <li>
               {% if speaker.website %}
@@ -89,7 +101,7 @@ All details subject to change at this point.
       <td>
         Lightning talks & Panel discussion 2
         <ul>
-        {% for speaker in site.data.speakers | sort: "panel" %}
+        {% for speaker in panelists %}
           {% if speaker.panel == 'tp' %}
             <li>
               {% if speaker.website %}
@@ -121,15 +133,13 @@ All details subject to change at this point.
       <th scope="row">4:05pm</th>
       <td colspan="2">
         Keynote 2:
-        {% for speaker in site.data.speakers | sort: "keynote" limit:1 offset:1 %}
-          {% if speaker.website %}
-            <a href="{{ speaker.website }}" target="_blank" >
-            {{ speaker.name }}
-            </a>
-          {% else %}
-            {{ speaker.name }}
-          {% endif %}
-        {% endfor %}
+        {% if keynote2.website %}
+          <a href="{{ keynote2.website }}" target="_blank" >
+          {{ keynote2.name }}
+          </a>
+        {% else %}
+          {{ keynote2.name }}
+        {% endif %}
       </td>
     </tr>
     <tr>
@@ -158,15 +168,13 @@ All details subject to change at this point.
       <th scope="row">8:05am</th>
       <td colspan="2">
         Keynote 3:
-        {% for speaker in site.data.speakers | sort: "keynote" limit:1 offset:2 %}
-          {% if speaker.website %}
-            <a href="{{ speaker.website }}" target="_blank" >
-            {{ speaker.name }}
-            </a>
-          {% else %}
-            {{ speaker.name }}
-          {% endif %}
-        {% endfor %}
+        {% if keynote3.website %}
+          <a href="{{ keynote3.website }}" target="_blank" >
+          {{ keynote3.name }}
+          </a>
+        {% else %}
+          {{ keynote3.name }}
+        {% endif %}
       </td>
     </tr>
     <!-- -->
@@ -184,7 +192,7 @@ All details subject to change at this point.
       <td>
         Lightning talks & Panel discussion 3
         <ul>
-        {% for speaker in site.data.speakers | sort: "panel" %}
+        {% for speaker in panelists %}
           {% if speaker.panel == 'ma' %}
             <li>
               {% if speaker.website %}
@@ -222,7 +230,7 @@ All details subject to change at this point.
       <td>
         Lightning talks & Panel discussion 4
         <ul>
-        {% for speaker in site.data.speakers | sort: "panel" %}
+        {% for speaker in panelists %}
           {% if speaker.panel == 'sm' %}
             <li>
               {% if speaker.website %}
@@ -254,15 +262,13 @@ All details subject to change at this point.
       <th scope="row">4:05pm</th>
       <td colspan="2">
         Keynote 4:
-        {% for speaker in site.data.speakers | sort: "keynote" limit:1 offset:3 %}
-          {% if speaker.website %}
-            <a href="{{ speaker.website }}" target="_blank" >
-            {{ speaker.name }}
-            </a>
-          {% else %}
-            {{ speaker.name }}
-          {% endif %}
-        {% endfor %}
+        {% if keynote4.website %}
+          <a href="{{ keynote4.website }}" target="_blank" >
+          {{ keynote4.name }}
+          </a>
+        {% else %}
+          {{ keynote4.name }}
+        {% endif %}
       </td>
     </tr>
     <tr>
