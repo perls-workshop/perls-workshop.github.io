@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Confirmed Keynote Speakers
+# Plenary Speakers
 
 <div class="row justify-content-center">
     {% for speaker in site.data.speakers %}
-        {% if speaker.keynote %}
+        {% if speaker.plenary %}
         <div class="text-center speaker">
             <img src="{{ speaker.image }}" class="speaker-img" />
 

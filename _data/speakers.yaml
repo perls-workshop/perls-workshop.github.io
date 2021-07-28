@@ -7,27 +7,19 @@
    affiliation: Inaugural Law and Society Fellow, Simons Institute for the Theory of Computing
    website: https://www.thomaskrendlgilbert.com/
    image: /assets/organizer-images/gilbert.jpg
-   keynote: 1
-
- - name: TBA
-   image: /assets/speaker-images/generic.png
-   keynote: 2
-
- - name: TBA
-   image: /assets/speaker-images/generic.png
-   keynote: 3
+   plenary: 2
 
  - name: Stuart Russell
    affiliation: "Professor of Computer Science at the University of California and author of \"Artificial Intelligence: A Modern Approach\""
    website: https://people.eecs.berkeley.edu/~russell/
    image: /assets/organizer-images/russell.jpg
-   keynote: 4
    panel: tp
 
  - name: Mark Nitzberg
    affiliation: Executive Director, CHAI Berkeley
    website: https://www.linkedin.com/in/nitzberg/
    image: /assets/speaker-images/nitzburg.jpg
+   plenary: 1
    panel: sm
 
  - name: Natasha Jaques
