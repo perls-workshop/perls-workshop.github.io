@@ -55,6 +55,12 @@ All details subject to change.
         <p>Vagueness & Specification</p>
       </td>
       <td>
+        <span class="theme-summary-label">Theme Summary:</span>
+        <span class="theme-summary">
+          How should RL systems be designed in the face of difficult specification problems and normative indeterminacies?
+          How do these problems change in particular domains or as RL systems become more capable?
+        </span>
+        <hr />
         Lightning talks & Panel discussion 1
         <ul>
           <li>Speakers and panellists TBA</li>
@@ -75,6 +81,12 @@ All details subject to change.
         & Feedback</p>
       </td>
       <td>
+        <span class="theme-summary-label">Theme Summary:</span>
+        <span class="theme-summary">
+          To what extent does RL automate many feedback mechanisms for oversight and control that social institutions (e.g. governments) presently enforce or take for granted?
+          How can stakeholders acquire a voice in system evaluation?
+        </span>
+        <hr />
         Lightning talks & Panel discussion 2
         <ul>
           <li>Speakers and panellists TBA</li>
@@ -109,7 +121,13 @@ All details subject to change.
         <p>Tools for democratization</p>
       </td>
       <td>
-        Lightning talks & Panel discussion 2
+        <span class="theme-summary-label">Theme Summary:</span>
+        <span class="theme-summary">
+          What new policy tools (technical or otherwise) could be used to achieve democratic control and oversight of RL systems?
+          What organizational theories are needed to inform or shape how democratization should proceed?
+        </span>
+        <hr />
+        Lightning talks & Panel discussion 3
         <ul>
           <li>Speakers and panellists TBA</li>
         </ul>

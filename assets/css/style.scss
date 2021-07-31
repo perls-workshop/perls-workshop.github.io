@@ -53,10 +53,6 @@
 }
 
 .theme-3>td {
-    background: rgb(255, 128, 49);
-}
-
-.theme-4>td {
     background: rgb(255, 186, 36);
 }
 
@@ -92,3 +88,10 @@ table.schedule td.theme-header {
     }
 }
 
+table.schedule span.theme-summary-label {
+    font-weight: bold;
+}
+
+ol.cfp-list > li {
+    margin-bottom: 15pt;
+}
