@@ -46,7 +46,7 @@ We encourage a broad interpretation of the problem spaces outlined in this call,
 
 Submitted papers must conform to the <a href="https://neurips.cc/Conferences/2021/CallForPapers" target="blank">NeurIPS 2021 formatting instructions</a>.
 
-Paper submission will be through OpenReview (link TBA).
+Paper submission will be through OpenReview - please use <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/PERLS" target="#">this URL</a>.
 
 # How to participate
 
