@@ -20,7 +20,7 @@ All details subject to change.
 <caption>Workshop draft schedule - Monday, December 13th</caption>
   <thead class="thead-light">
     <tr>
-      <th scope="col" class="col-2">Time (EST)</th>
+      <th scope="col" class="col-2">Time (<a href="https://www.timeanddate.com/time/zones/pt">PT</a>)</th>
       <th scope="col" class="col-10" colspan="2">Event</th>
     </tr>
   </thead>
