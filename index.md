@@ -38,7 +38,7 @@ We encourage a broad interpretation of the problem spaces outlined in this call,
 ## Key Dates
 
 <ul>
-    <li>Paper submissions due: Sep 18, 2021, <a target="blank" href="https://www.timeanddate.com/time/zones/aoe">AoE</a></li>
+    <li>Paper submissions due: <del>Sep 18, 2021</del>, Extended to Oct 1, 2021, <a target="blank" href="https://www.timeanddate.com/time/zones/aoe">AoE</a></li>
     <li>Accept/Reject Notification: Oct 23, 2021, <a target="blank" href="https://www.timeanddate.com/time/zones/aoe">AoE</a></li>
 </ul>
 
