@@ -13,7 +13,7 @@ layout: default
             {% if organizer.website %}
             <a href="{{ organizer.website }}" target="_blank" >
                 {{ organizer.name }}
-            </a>, 
+            </a>
             {% else %}
                 {{ organizer.name }}
             {% endif %}
