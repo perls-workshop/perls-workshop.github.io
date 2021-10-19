@@ -2,16 +2,6 @@
 layout: default
 ---
 
-<!-- Locate plenary speakers and panelists -->
-{% for speaker in site.data.speakers %}
-  {% if speaker.plenary == 1 %}
-    {% assign plenary1 = speaker %}
-  {% elsif speaker.plenary == 2 %}
-    {% assign plenary2 = speaker %}
-  {% endif %}
-{% endfor %}
-{% assign panelists = site.data.speakers | sort: "panel" %}
-
 # Workshop Draft Schedule (Monday, December 13th)
 
 All details subject to change.
@@ -32,14 +22,7 @@ All details subject to change.
     <tr>
       <th scope="row">8:20am</th>
       <td colspan="2">
-        Opening plenary:
-        {% if plenary1.website %}
-          <a href="{{ plenary1.website }}" target="_blank" >
-          {{ plenary1.name }}
-          </a>
-        {% else %}
-          {{ plenary1.name }}
-        {% endif %}
+        Opening plenary
       </td>
     </tr>
     <!-- -->
@@ -141,14 +124,7 @@ All details subject to change.
     <tr>
       <th scope="row">5:00pm</th>
       <td colspan="2">
-        Closing plenary:
-        {% if plenary2.website %}
-          <a href="{{ plenary2.website }}" target="_blank" >
-          {{ plenary2.name }}
-          </a>
-        {% else %}
-          {{ plenary2.name }}
-        {% endif %}
+        Workshop summary
       </td>
     </tr>
   </tbody>
