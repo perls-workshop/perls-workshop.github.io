@@ -105,11 +105,6 @@
    image: /assets/speaker-images/foerster.jpg
    panel: true
 
- - name: Duygu Yengin
-   affiliation: Associate Professor in Economics, University of Adelaide
-   website: https://researchers.adelaide.edu.au/profile/duygu.yengin
-   image: /assets/speaker-images/yengin.jpg
-   panel: true
 
  - name: Amy Greenwald
    affiliation: Professor of Computer Science, Brown University
