@@ -3,12 +3,6 @@
 # The order here determines the order they appear on the page
 
 
- - name: Thomas Krendl Gilbert
-   affiliation: Inaugural Law and Society Fellow, Simons Institute for the Theory of Computing
-   website: https://www.thomaskrendlgilbert.com/
-   image: /assets/organizer-images/gilbert.jpg
-   plenary: 2
-
  - name: Stuart Russell
    affiliation: "Professor of Computer Science at the University of California and author of \"Artificial Intelligence: A Modern Approach\""
    website: https://people.eecs.berkeley.edu/~russell/
