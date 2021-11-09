@@ -101,7 +101,7 @@ All details subject to change.
         <ul>
           <li>"Legitimacy" in the Computational Elicitation of Preferences in Mechanism Design (Jake Goldenfein)</li>
           <li>The Role of Explanation in RL Legitimacy, Accountability, and Feedback (Finale Doshi-Velez)</li>
-          <li>Title TBA (Michael Littman)</li>
+          <li>Evaluating Reinforcement Learners (Michael Littman)</li>
         </ul>
 
         [Panel discussion]
@@ -156,7 +156,7 @@ All details subject to change.
         
         [Presentations]
         <ul>
-          <li>Title TBA (Ayse Yasar)</li>
+          <li>Antimonopoly as a Tool for Democratization? (Ayse Yasar)</li>
           <li>Reinforcement of What? Shaping the Digitization of Judgement by Reinforcement Learning (Frank Pasquale)</li>
           <li>Metrics are Tricky (Rachel Thomas)</li>
         </ul>
