@@ -43,10 +43,10 @@
    website: https://law.unimelb.edu.au/about/staff/jake-goldenfein
    image: /assets/speaker-images/goldenfein.jpg
 
- - name: Ivana Dusparik
+ - name: Ivana Dusparic
    affiliation: Ussher Assistant Professor in Future Cities and the Internet of Things, Trinity College Dublin
    website: https://www.scss.tcd.ie/Ivana.Dusparic/
-   image: /assets/speaker-images/dusparik.jpg
+   image: /assets/speaker-images/dusparic.jpg
 
  - name: Finale Doshi-Velez
    affiliation: John L. Loeb associate professor in Computer Science at the Harvard Paulson School of Engineering and Applied Sciences
@@ -58,10 +58,10 @@
 #   website: https://hls.harvard.edu/faculty/directory/10992/Zittrain
 #   image: /assets/speaker-images/zittrain.jpg
 
- - name: Katie Steele
-   affiliation: Associate Professor, Australian National University Humanising Machine Intelligence Institute
-   website: https://researchers.anu.edu.au/researchers/steele-ks
-   image: /assets/speaker-images/steele.jpg
+#  - name: Katie Steele
+#    affiliation: Associate Professor, Australian National University Humanising Machine Intelligence Institute
+#    website: https://researchers.anu.edu.au/researchers/steele-ks
+#    image: /assets/speaker-images/steele.jpg
 
  - name: Rachel Thomas
    affiliation: Founder of Centre for Applied Data Ethics at University of San Francisco, co-founder of fast.ai
