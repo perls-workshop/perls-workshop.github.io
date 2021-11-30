@@ -83,10 +83,10 @@
 #   website: https://www.jakobfoerster.com/
 #   image: /assets/speaker-images/foerster.jpg
 
- - name: Amy Greenwald
-   affiliation: Professor of Computer Science, Brown University
-   website: http://cs.brown.edu/people/faculty/amy/
-   image: /assets/speaker-images/greenwald.jpg
+#  - name: Amy Greenwald
+#    affiliation: Professor of Computer Science, Brown University
+#    website: http://cs.brown.edu/people/faculty/amy/
+#    image: /assets/speaker-images/greenwald.jpg
 
  - name: Ayse Gizem Yasar
    affiliation: PhD Candidate, Sciences Po Law School

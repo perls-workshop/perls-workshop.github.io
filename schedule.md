@@ -66,7 +66,6 @@ All details subject to change.
           <li>Mireille Hildebrandt</li>
           <li>Salomé Viljoen</li>
           <li>Natasha Jaques</li>
-          <li>Amy Greenwald</li>
         </ul>
       </td>
     </tr>
