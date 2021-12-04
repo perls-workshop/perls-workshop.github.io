@@ -11,6 +11,8 @@ Live count-down to workshop start:
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-rnmv" class="countdown-timer" data-timezone="America/New_York" data-date="2021-12-14 07:00">PERLS Workshop</a>
 
+[Official schedule link (with live-stream and GatherTown links)](https://neurips.cc/virtual/2021/workshop/21864) - must be registered for NeurIPS and logged-in.
+
 # Overview
 
 Sponsored by the Center for Human-Compatible AI at UC Berkeley, and with support from the Simons Institute and the Center for Long-Term Cybersecurity, we are convening a cross-disciplinary group of researchers to examine the near-term policy concerns of Reinforcement Learning (RL).
