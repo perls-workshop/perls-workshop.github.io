@@ -2,9 +2,14 @@
 layout: default
 ---
 
-# Workshop Draft Schedule (Tuesday, December 14th)
+# Workshop Schedule
 
-All details subject to change.
+The NeurIPS 2021 PERLS Workshop is on <span class="important">Tuesday, December 14th</span>, time zone: <span class="important">New York (USA)</span>.
+
+Live count-down to workshop start:
+
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-rnmv" class="countdown-timer" data-timezone="America/New_York" data-date="2021-12-14 07:00">PERLS Workshop</a>
 
 <table class="table schedule table-bordered table-hover">
 <caption>Workshop draft schedule - Tuesday, December 14th</caption>

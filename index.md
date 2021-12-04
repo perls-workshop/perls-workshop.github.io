@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# Count-down
+
+The NeurIPS 2021 PERLS Workshop is on <span class="important">Tuesday, December 14th</span>, time zone: <span class="important">New York (USA)</span>.
+
+Live count-down to workshop start:
+
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-rnmv" class="countdown-timer" data-timezone="America/New_York" data-date="2021-12-14 07:00">PERLS Workshop</a>
+
 # Overview
 
 Sponsored by the Center for Human-Compatible AI at UC Berkeley, and with support from the Simons Institute and the Center for Long-Term Cybersecurity, we are convening a cross-disciplinary group of researchers to examine the near-term policy concerns of Reinforcement Learning (RL).
