@@ -24,6 +24,30 @@ layout: default
     {% endfor %}
 </div>
 
+# Volunteers
+
+We are indebted to our 2021 workshop volunteers!
+
+<div class="container">
+    {% for volunteer in site.data.volunteers %}
+    <div class="organizer row">
+        <div class="col-md-auto text-center">
+            <img src="{{ volunteer.image }}" class="organizer-img" />
+            <div class="break"></div>
+            {% if volunteer.website %}
+            <a href="{{ volunteer.website }}" target="_blank" >
+                {{ volunteer.name }}
+            </a>
+            {% else %}
+                {{ volunteer.name }}
+            {% endif %}
+        </div>
+
+        <div class="organizer-bio col">{{ volunteer.bio }}</div>
+    </div>
+    {% endfor %}
+</div>
+
 # Reviewers
 
 In addition to the workshop organizers, our workshop reviewer comittee includes the following members:
