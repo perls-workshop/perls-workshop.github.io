@@ -116,6 +116,7 @@ Live count-down to workshop start:
           <li>Finale Doshi-Velez</li>
           <li>Michael Littman</li>
           <li>Evi Micha</li>
+          <li>Jonathan Stray</li>
           <li>Ivana Dusparic</li>
         </ul>
       </td>
