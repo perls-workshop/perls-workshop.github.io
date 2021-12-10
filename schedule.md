@@ -57,7 +57,7 @@ Live count-down to workshop start:
         </span>
         <br />
         <span class="chair-label">Chairperson:</span>
-        <span class="chair">Thomas Gilbert</span>
+        <span class="chair">Michael Dennis</span>
         
         <hr />
 
@@ -99,7 +99,7 @@ Live count-down to workshop start:
         </span>
         <br />
         <span class="chair-label">Chairperson:</span>
-        <span class="chair">Jakob Foerster</span>
+        <span class="chair">Aaron Snoswell</span>
         
         <hr />
         
@@ -117,6 +117,7 @@ Live count-down to workshop start:
           <li>Evi Micha</li>
           <li>Jonathan Stray</li>
           <li>Ivana Dusparic</li>
+          <li>Jessica Forde</li>
         </ul>
       </td>
     </tr>
@@ -156,7 +157,7 @@ Live count-down to workshop start:
         </span>
         <br />
         <span class="chair-label">Chairperson:</span>
-        <span class="chair">Michael Dennis</span>
+        <span class="chair">Thomas Gilbert</span>
         
         <hr />
         
@@ -181,7 +182,7 @@ Live count-down to workshop start:
     <tr>
       <th scope="row">4:30pm</th>
       <td colspan="2">
-        Closing remarks (Thomas Krendl Gilbert)
+        Closing remarks
       </td>
     </tr>
   </tbody>
