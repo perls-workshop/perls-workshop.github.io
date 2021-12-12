@@ -6,12 +6,15 @@ layout: default
 
 The NeurIPS 2021 PERLS Workshop is on <span class="important">Tuesday, December 14th</span>, time zone: <span class="important">New York (USA)</span>.
 
+<span class="click-to-join">[>> Click here to join the workshop live-stream <<](https://neurips.cc/virtual/2021/workshop/21864)</span>
+
+<span class="click-to-join-sub">(must be registered for NeurIPS and logged-in!)</span>
+
 Live count-down to workshop start:
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-rnmv" class="countdown-timer" data-timezone="America/New_York" data-date="2021-12-14 07:00">PERLS Workshop</a>
 
-[Official schedule link (with live-stream and GatherTown links)](https://neurips.cc/virtual/2021/workshop/21864) - must be registered for NeurIPS and logged-in.
 
 # Overview
 
@@ -45,19 +48,6 @@ We are inviting papers from the fields of computer science, governance, law, eco
 </ol>
 
 We encourage a broad interpretation of the problem spaces outlined in this call, and would urge researchers broadly interested in the topic of RL and society to consider submitting a contribution, even if it does not explicitly fall within the topics proposed above.
-
-## Key Dates
-
-<ul>
-    <li>Paper submissions due: <del>Sep 18, 2021</del>, Extended to Oct 1, 2021, <a target="blank" href="https://www.timeanddate.com/time/zones/aoe">AoE</a></li>
-    <li>Accept/Reject Notification: Oct 23, 2021, <a target="blank" href="https://www.timeanddate.com/time/zones/aoe">AoE</a></li>
-</ul>
-
-## Submission Instructions
-
-Submitted papers must conform to the <a href="https://neurips.cc/Conferences/2021/CallForPapers" target="blank">NeurIPS 2021 formatting instructions</a>.
-
-Paper submission will be through OpenReview - please use <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/PERLS" target="#">this URL</a>.
 
 # How to participate
 
