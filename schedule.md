@@ -23,6 +23,10 @@ Live count-down to workshop start:
   </thead>
   <tbody>
     <tr>
+      <th scope="row">7:00am</th>
+      <td colspan="2">Pre-show meet and greet</td>
+    </tr>
+    <tr>
       <th scope="row">8:00am</th>
       <td colspan="2">Welcome</td>
     </tr>
