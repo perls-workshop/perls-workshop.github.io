@@ -23,6 +23,11 @@
    website: https://www.brooklaw.edu/Contact-Us/Pasquale-Frank
    image: /assets/speaker-images/pasquale.jpg
 
+ - name: Jessica Forde
+   affiliation: PhD Student, Brown University
+   website: https://jzf2101.github.io/
+   image: /assets/speaker-images/forde.jpeg
+
  - name: Michael Littman
    affiliation: Royce Family Professor of Teaching Excellence in Computer Science, Brown University
    website: https://www.littmania.com/
@@ -58,16 +63,6 @@
    website: https://www.hks.harvard.edu/about/finale-doshi-velez
    image: /assets/speaker-images/doshi-velez.jpg
 
-# - name: Jonathan Zittrain
-#   affiliation: Faculty Director, Berkman Klein Center for Internet and Society
-#   website: https://hls.harvard.edu/faculty/directory/10992/Zittrain
-#   image: /assets/speaker-images/zittrain.jpg
-
-#  - name: Katie Steele
-#    affiliation: Associate Professor, Australian National University Humanising Machine Intelligence Institute
-#    website: https://researchers.anu.edu.au/researchers/steele-ks
-#    image: /assets/speaker-images/steele.jpg
-
  - name: Rachel Thomas
    affiliation: Founder of Centre for Applied Data Ethics at University of San Francisco, co-founder of fast.ai
    website: https://rachel.fast.ai/
@@ -82,16 +77,6 @@
    affiliation: Postgraduate Affiliate, Vector Institute for Artificial Intelligence
    website: http://www.cs.toronto.edu/~emicha/
    image: /assets/speaker-images/micha.jpg
-
-# - name: Jakob N. Foerster
-#   affiliation: CIFAR AI Chair and Research Scientist, Facebook AI Research
-#   website: https://www.jakobfoerster.com/
-#   image: /assets/speaker-images/foerster.jpg
-
-#  - name: Amy Greenwald
-#    affiliation: Professor of Computer Science, Brown University
-#    website: http://cs.brown.edu/people/faculty/amy/
-#    image: /assets/speaker-images/greenwald.jpg
 
  - name: Ayse Gizem Yasar
    affiliation: PhD Candidate, Sciences Po Law School
