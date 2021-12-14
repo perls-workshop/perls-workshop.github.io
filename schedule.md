@@ -122,7 +122,7 @@ Live count-down to workshop start:
           <li>Finale Doshi-Velez</li>
           <li>Evi Micha</li>
           <li>Ivana Dusparic</li>
-          <li>Jessica Forde</li>
+          <li>Jonathan Stray</li>
         </ul>
       </td>
     </tr>
@@ -179,7 +179,7 @@ Live count-down to workshop start:
           <li>Frank Pasquale</li>
           <li>Rachel Thomas</li>
           <li>Mason Kortz</li>
-          <li>Jonathan Stray</li>
+          <li>Jessica Forde</li>
         </ul>
       </td>
     </tr>
