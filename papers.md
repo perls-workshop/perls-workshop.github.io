@@ -4,7 +4,7 @@ layout: default
 
 # Accepted Papers
 
-This year we had seven paper submissions, of which six were accepted for poster presentations during the workshop.
+This year we had six paper submissions, of which five were accepted for poster presentations during the workshop.
 You can download a bibtex file for all accepted papers [here](\assets\bib\perls-2021-accepted.bib).
 
 The accepted papers are listed below in alphabetical order of the first author's surname.
